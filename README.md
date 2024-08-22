@@ -8,8 +8,11 @@
   src="https://github.com/izumshahid/izumshahid/blob/main/coding.jpg"
 />
 
-- 🔭 I'm currently working on **MERN Stack** - 💬 Ask me about **JavaScript** -
-📫 How to reach me **irzumshahid@gmail.com**
+- 🔭 I'm currently working on **MERN Stack**
+  
+- 💬 Ask me about **JavaScript**
+  
+- 📫 How to reach me **irzumshahid@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
