@@ -214,4 +214,4 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=izumshahid&show_icons=true&locale=en&layout=compact" alt="awaisaslam336" /></p>
+<!--  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=izumshahid&show_icons=true&locale=en&layout=compact" alt="awaisaslam336" /></p> -->
