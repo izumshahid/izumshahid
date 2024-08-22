@@ -5,7 +5,7 @@
   alt="Coding"
   height="250"
   width="400"
-  src="https://github.com/izumshahid/izumshahid/blob/main/coding.gif"
+  src="https://github.com/izumshahid/izumshahid/blob/main/coding.jpg"
 />
 
 - 🔭 I'm currently working on **MERN Stack** - 💬 Ask me about **JavaScript** -
